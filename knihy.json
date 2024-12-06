@@ -1,0 +1,213 @@
+{
+    "1": {
+      "nazev": "Křižovatky osudu",
+      "jmeno_autora": "Jana",
+      "prijmeni_autora": "Novotná",
+      "zanr": "Drama",
+      "pocet_stran": 320
+    },
+    "2": {
+      "nazev": "Tajemství lesa",
+      "jmeno_autora": "Petr",
+      "prijmeni_autora": "Svoboda",
+      "zanr": "Fantasy",
+      "pocet_stran": 450
+    },
+    "3": {
+      "nazev": "Ztracený ráj",
+      "jmeno_autora": "Alena",
+      "prijmeni_autora": "Králová",
+      "zanr": "Román",
+      "pocet_stran": 280
+    },
+    "4": {
+      "nazev": "Temné vody",
+      "jmeno_autora": "Jan",
+      "prijmeni_autora": "Černý",
+      "zanr": "Thriller",
+      "pocet_stran": 310
+    },
+    "5": {
+      "nazev": "Cesta do neznáma",
+      "jmeno_autora": "Eva",
+      "prijmeni_autora": "Malá",
+      "zanr": "Dobrodružství",
+      "pocet_stran": 360
+    },
+    "6": {
+      "nazev": "Hvězdný prach",
+      "jmeno_autora": "Tomáš",
+      "prijmeni_autora": "Veselý",
+      "zanr": "Sci-fi",
+      "pocet_stran": 420
+    },
+    "7": {
+      "nazev": "Podzimní rozjímání",
+      "jmeno_autora": "Marie",
+      "prijmeni_autora": "Zelená",
+      "zanr": "Poezie",
+      "pocet_stran": 150
+    },
+    "8": {
+      "nazev": "Vraždy v kruhu",
+      "jmeno_autora": "David",
+      "prijmeni_autora": "Bílý",
+      "zanr": "Detektivka",
+      "pocet_stran": 280
+    },
+    "9": {
+      "nazev": "Válka a láska",
+      "jmeno_autora": "Lenka",
+      "prijmeni_autora": "Válková",
+      "zanr": "Historický román",
+      "pocet_stran": 540
+    },
+    "10": {
+      "nazev": "Dům na kopci",
+      "jmeno_autora": "Michal",
+      "prijmeni_autora": "Šedivý",
+      "zanr": "Horor",
+      "pocet_stran": 330
+    },
+    "11": {
+      "nazev": "Vzestup a pád",
+      "jmeno_autora": "Pavel",
+      "prijmeni_autora": "Dlouhý",
+      "zanr": "Biografie",
+      "pocet_stran": 390
+    },
+    "12": {
+      "nazev": "Jarní zázraky",
+      "jmeno_autora": "Klára",
+      "prijmeni_autora": "Horská",
+      "zanr": "Romance",
+      "pocet_stran": 260
+    },
+    "13": {
+      "nazev": "Bouře nad horami",
+      "jmeno_autora": "Zdeněk",
+      "prijmeni_autora": "Urban",
+      "zanr": "Dobrodružství",
+      "pocet_stran": 310
+    },
+    "14": {
+      "nazev": "Osudové rozhodnutí",
+      "jmeno_autora": "Anna",
+      "prijmeni_autora": "Kovářová",
+      "zanr": "Drama",
+      "pocet_stran": 290
+    },
+    "15": {
+      "nazev": "Hranice věčnosti",
+      "jmeno_autora": "Roman",
+      "prijmeni_autora": "Nový",
+      "zanr": "Sci-fi",
+      "pocet_stran": 480
+    },
+    "16": {
+      "nazev": "Tichý svědek",
+      "jmeno_autora": "Barbora",
+      "prijmeni_autora": "Havlová",
+      "zanr": "Detektivka",
+      "pocet_stran": 270
+    },
+    "17": {
+      "nazev": "Světlo naděje",
+      "jmeno_autora": "Ludmila",
+      "prijmeni_autora": "Růžová",
+      "zanr": "Inspirativní literatura",
+      "pocet_stran": 200
+    },
+    "18": {
+      "nazev": "Tajemná jeskyně",
+      "jmeno_autora": "Václav",
+      "prijmeni_autora": "Příhoda",
+      "zanr": "Dobrodružství",
+      "pocet_stran": 370
+    },
+    "19": {
+      "nazev": "Anděl na zemi",
+      "jmeno_autora": "Monika",
+      "prijmeni_autora": "Benešová",
+      "zanr": "Romance",
+      "pocet_stran": 310
+    },
+    "20": {
+      "nazev": "Poutník času",
+      "jmeno_autora": "Radim",
+      "prijmeni_autora": "Šťastný",
+      "zanr": "Fantasy",
+      "pocet_stran": 460
+    },
+    "21": {
+      "nazev": "Kameny osudu",
+      "jmeno_autora": "Irena",
+      "prijmeni_autora": "Vlčková",
+      "zanr": "Historický román",
+      "pocet_stran": 410
+    },
+    "22": {
+      "nazev": "Město stínů",
+      "jmeno_autora": "Kamil",
+      "prijmeni_autora": "Říha",
+      "zanr": "Thriller",
+      "pocet_stran": 340
+    },
+    "23": {
+      "nazev": "Kouzlo okamžiku",
+      "jmeno_autora": "Petra",
+      "prijmeni_autora": "Dvořáková",
+      "zanr": "Inspirativní literatura",
+      "pocet_stran": 180
+    },
+    "24": {
+      "nazev": "Cesta snů",
+      "jmeno_autora": "Filip",
+      "prijmeni_autora": "Němec",
+      "zanr": "Fantasy",
+      "pocet_stran": 520
+    },
+    "25": {
+      "nazev": "Pod maskou lží",
+      "jmeno_autora": "Marek",
+      "prijmeni_autora": "Vlček",
+      "zanr": "Detektivka",
+      "pocet_stran": 310
+    },
+    "26": {
+      "nazev": "Vzpomínky v mlze",
+      "jmeno_autora": "Dagmar",
+      "prijmeni_autora": "Květová",
+      "zanr": "Drama",
+      "pocet_stran": 260
+    },
+    "27": {
+      "nazev": "Ledový dech",
+      "jmeno_autora": "Hana",
+      "prijmeni_autora": "Fialová",
+      "zanr": "Horor",
+      "pocet_stran": 290
+    },
+    "28": {
+      "nazev": "Podivné světy",
+      "jmeno_autora": "Jaroslav",
+      "prijmeni_autora": "Hlavatý",
+      "zanr": "Sci-fi",
+      "pocet_stran": 430
+    },
+    "29": {
+      "nazev": "Ztracený klíč",
+      "jmeno_autora": "Simona",
+      "prijmeni_autora": "Dohnalová",
+      "zanr": "Detektivka",
+      "pocet_stran": 300
+    },
+    "30": {
+      "nazev": "Věčné pouto",
+      "jmeno_autora": "Daniel",
+      "prijmeni_autora": "Krejčí",
+      "zanr": "Romance",
+      "pocet_stran": 280
+    }
+  }
+  
